@@ -1,4 +1,6 @@
 # SiteMap_ForkJoinPool
+![ForkJoinPool](https://img.shields.io/badge/-ForkJoinPool-0a0a0a?style=for-the-badge&logo=ForkJoinPool)
+![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java)
 ## Что использовалось
 *`Java` - SDK 11\
 *`Maven` - сборка проекта\
