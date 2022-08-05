@@ -1,6 +1,8 @@
 # SiteMap_ForkJoinPool
 ![ForkJoinPool](https://img.shields.io/badge/-ForkJoinPool-0a0a0a?style=for-the-badge&logo=ForkJoinPool)
-![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java)\
+`SiteMap_ForkJoinPool` - приложение, которое в многопоточном режиме формирует карту заданного сайта (список ссылок), и запиcывает её в файл.\
+Ссылки на дочерние страницы располагаются в файле с отступами на одну табуляцию относительно родительских.
 ## Что использовалось
 *`Java` - SDK 11\
 *`Maven` - сборка проекта\
